@@ -40,3 +40,4 @@ Insurance Companies: Estimating the Insured Declared Value (IDV) of vehicles.
 
 ![IMAGE](https://github.com/pawan123-p/CodeAlpha_Car_Price_Prediction/blob/main/Screenshot%202026-02-28%20110848.png)
 ![IMAGE](https://github.com/pawan123-p/CodeAlpha_Car_Price_Prediction/blob/main/Screenshot%202026-02-28%20111922.png)
+![IMAGE](https://github.com/pawan123-p/CodeAlpha_Car_Price_Prediction/blob/main/Screenshot%202026-02-28%20111904.png)
